@@ -1,0 +1,31 @@
+{
+  "course_id": "ICB-H06",
+  "repository": "icb-h06-long-lived-credentials-post-quantum-cryptography",
+  "repository_url": "https://github.com/ICoBC/icb-h06-long-lived-credentials-post-quantum-cryptography",
+  "title": "Long-Lived Credentials and Post-Quantum Cryptography",
+  "subtitle": "Planning for signatures that must outlast their algorithms.",
+  "version": "1.0.0",
+  "series": "Horizon",
+  "skill": "Security, privacy and data protection",
+  "level": "4",
+  "level_name": "Assure",
+  "stage": "K",
+  "stage_name": "Knowledge",
+  "alignment_code": "ICSF-SECP-L4-K",
+  "badge_name": "Long-Lived Credentials and Post-Quantum Cryptography (Knowledge, L4)",
+  "hours": "1.5",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-h06/",
+  "parts": [
+    "About this course",
+    "The problem",
+    "Options",
+    "Planning",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 12
+}
